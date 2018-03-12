@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewXMLCreatorForm", "ViewXMLCreator\ViewXMLCreatorForm.csproj", "{78C9EF94-0CEC-4E39-8649-93B6C1753230}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{7EF371F3-A979-44D4-B445-35A149BA92F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewXMLCreatorCore", "ViewXMLCreatorCore\ViewXMLCreatorCore.csproj", "{8F5FC978-4C83-44F1-94C7-8A9324E73670}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78C9EF94-0CEC-4E39-8649-93B6C1753230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C9EF94-0CEC-4E39-8649-93B6C1753230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C9EF94-0CEC-4E39-8649-93B6C1753230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C9EF94-0CEC-4E39-8649-93B6C1753230}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF371F3-A979-44D4-B445-35A149BA92F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF371F3-A979-44D4-B445-35A149BA92F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF371F3-A979-44D4-B445-35A149BA92F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF371F3-A979-44D4-B445-35A149BA92F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F5FC978-4C83-44F1-94C7-8A9324E73670}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5FC978-4C83-44F1-94C7-8A9324E73670}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5FC978-4C83-44F1-94C7-8A9324E73670}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5FC978-4C83-44F1-94C7-8A9324E73670}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
